@@ -52,7 +52,6 @@
                                                                  zoom:6];
     
     
-  
     CGRect rect=viewForMap.frame;
     rect.origin.x=0;
     rect.origin.y =0;
@@ -67,7 +66,6 @@
     marker.snippet = @"Map Demo";
     marker.map = mapView_;
     [viewForMap addSubview:mapView_];
-    
     
     //add multiple loaction here
     for (int i=0; i < 8; i++) {
