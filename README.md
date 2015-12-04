@@ -19,4 +19,14 @@
 + [GMSServices provideAPIKey:@"YOUR_API_KEY"];
 
 
+Go to Xccode:
+
+build settings  > other linker flags
+Then add "-ObjC"
+
+build settings  >  Enable bitcode
+Make it "NO"
+
+
+
 
