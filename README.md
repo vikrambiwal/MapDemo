@@ -1,6 +1,6 @@
 # MapDemo
 
-1. Go to the Google Developers Console.
+1. Go to the Google Developers Console (https://console.developers.google.com).
 2. Select a project, or create a new one.
 3. Enable the Google Maps SDK for iOS, and optionally the Google Places API for iOS: Open the API Library in the Google Developers Console. If prompted, select a project or create a new one. Select the Enabled APIs link in the API section to see a list of all your enabled APIs. Make sure that the API is on the list of enabled APIs. If you have not enabled it, select the API from the list of APIs, then select the Enable API button for the API.
 
